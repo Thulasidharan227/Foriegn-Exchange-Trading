@@ -1,6 +1,7 @@
 # Foriegn-Exchange-Trading
 FX Trading Assignment 
 
+Main class [here] : click here
  
 
 Write a java program for converting USD to INR. This is small stripped down use case of Foreign exchange trading. This program should be designed to assist users with transferring USD to INR. The design should be flexible such that new currency can be added with minimal change and impact to existing functionality.
